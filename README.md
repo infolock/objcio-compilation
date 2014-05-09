@@ -16,38 +16,38 @@ Each folder contains the code in the root along with an "Articles" sub folder.
 
 * **Issue 1** - **_Lighter View Controllers (2013-06-07)_**
   * Introduction
-  * Lighter View Controllers
+  * Lighter View Controllers *_Code Available_*
   * Clean table view code
   * Testing View Controllers
-  * View Controller Containment
+  * View Controller Containment *_Code Available_*
 * **Issue 2** - **_Concurrent Programming (2013-07-07)_**
   * Editorial
   * Concurrent Programming: APIs and Challenges
-  * Common Background Practices
+  * Common Background Practices  *_Code Available_*
   * Low-Level Concurrency APIs
   * Thread-Safe Class Design
-  * Testing Concurrent Applications
+  * Testing Concurrent Applications *_Code Available_*
 * **Issue 3** - **_Views (2013-08-07)_**
   * Editorial
   * Getting Pixels onto the Screen
   * Understanding Scroll Views
-  * Custom Collection View Layouts
+  * Custom Collection View Layouts  *_Code Available_*
   * Custom Controls
-  * Advanced Auto Layout Toolbox
+  * Advanced Auto Layout Toolbox  *_Code Available_*
 * **Issue 4** - **_Core Data (2013-09-09)_**
   * Editorial
   * Core Data Overview
   * A Complete Core Data Application
   * On Using SQLite and FMDB Instead of Core Data
   * Data Models and Model Objects
-  * Importing Large Data Sets
-  * Fetch Requests
+  * Importing Large Data Sets  *_Code Available_*
+  * Fetch Requests  *_Code Available_*
   * Custom Core Data Migrations
 * **Issue 5** - **_iOS 7 (2013-10-08)_**
   * Editorial
-  * Getting to Know TextKit
-  * UICollectionView + UIKit Dynamics
-  * View Controller Transitions
+  * Getting to Know TextKit  *_Code Available_*
+  * UICollectionView + UIKit Dynamics  *_Code Available_*
+  * View Controller Transitions  *_Code Available_*
   * From NSURLConnection to NSURLSession
   * Multitasking in iOS 7
   * iOS 7: Hidden Gems and Workarounds
@@ -55,18 +55,18 @@ Each folder contains the code in the root along with an "Articles" sub folder.
 * **Issue 6** - **_Build Tools (2013-11-08)_**
   * Editorial
   * The Build Process
-  * The Compiler
+  * The Compiler  *_Code Available_*
   * Mach-O Executables
   * CocoaPods Under The Hood
-  * Travis CI for iOS
+  * Travis CI for iOS  *_Code Available_*
 * **Issue 7** - **_Foundation (2013-12-09)_**
   * Editorial
-  * The Foundation Collection Classes
+  * The Foundation Collection Classes  *_Code Available_*
   * Value Objects
-  * Key-Value Coding and Observing
-  * Communication Patterns
-  * Custom Formatters
-  * Linguistic Tagging
+  * Key-Value Coding and Observing  *_Code Available_*
+  * Communication Patterns 
+  * Custom Formatters  *_Code Available_*
+  * Linguistic Tagging  *_Code Available_*
 * **Issue 8** - **_Quadcopter Project (2014-01-08)_**
   * Editorial
   * The Project
