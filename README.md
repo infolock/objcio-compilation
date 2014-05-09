@@ -1,5 +1,5 @@
 ## Overview
-This repository is a (quick) compilation of the articles by (http://objc.io)[objc.io] and the (https://github.com/objcio)[repositories] that go along with them.
+This repository is a (quick) compilation of the articles by [objc.io](http://objc.io) and the [repositories](https://github.com/objcio) that go along with them.
 
 Created it simply so that I could have a way to download them all together (and be a little organized to boot) for trips like today when I'm on the road without wifi =P
 
