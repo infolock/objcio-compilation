@@ -3,8 +3,7 @@ This repository is a (quick) compilation of the articles by [objc.io](http://obj
 
 Created it simply so that I could have a way to download them all together (and be a little organized to boot) for trips like today when I'm on the road without wifi =P
 
-_[From objc.io's README.md](https://github.com/objcio/articles/blob/master/README.md)_
-# objc.io articles
+# _[objc.io articles](https://github.com/objcio/articles/blob/master/README.md)_
 
 This repository contains all available articles from [objc.io](http://www.objc.io).
 
