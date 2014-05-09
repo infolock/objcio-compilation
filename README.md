@@ -16,38 +16,38 @@ Each folder contains the code in the root along with an "Articles" sub folder.
 
 * **Issue 1** - **_Lighter View Controllers (2013-06-07)_**
   * Introduction
-  * Lighter View Controllers **_Code Available_**
+  * Lighter View Controllers **_`Code Available`_**
   * Clean table view code
   * Testing View Controllers
-  * View Controller Containment **_Code Available_**
+  * View Controller Containment **_`Code Available`_**
 * **Issue 2** - **_Concurrent Programming (2013-07-07)_**
   * Editorial
   * Concurrent Programming: APIs and Challenges
-  * Common Background Practices  **_Code Available_**
+  * Common Background Practices  **_`Code Available`_**
   * Low-Level Concurrency APIs
   * Thread-Safe Class Design
-  * Testing Concurrent Applications **_Code Available_**
+  * Testing Concurrent Applications **_`Code Available`_**
 * **Issue 3** - **_Views (2013-08-07)_**
   * Editorial
   * Getting Pixels onto the Screen
   * Understanding Scroll Views
-  * Custom Collection View Layouts  **_Code Available_**
+  * Custom Collection View Layouts  **_`Code Available`_**
   * Custom Controls
-  * Advanced Auto Layout Toolbox  **_Code Available_**
+  * Advanced Auto Layout Toolbox  **_`Code Available`_**
 * **Issue 4** - **_Core Data (2013-09-09)_**
   * Editorial
   * Core Data Overview
   * A Complete Core Data Application
   * On Using SQLite and FMDB Instead of Core Data
   * Data Models and Model Objects
-  * Importing Large Data Sets  **_Code Available_**
-  * Fetch Requests  **_Code Available_**
+  * Importing Large Data Sets  **_`Code Available`_**
+  * Fetch Requests  **_`Code Available`_**
   * Custom Core Data Migrations
 * **Issue 5** - **_iOS 7 (2013-10-08)_**
   * Editorial
-  * Getting to Know TextKit  **_Code Available_**
-  * UICollectionView + UIKit Dynamics  **_Code Available_**
-  * View Controller Transitions  **_Code Available_**
+  * Getting to Know TextKit  **_`Code Available`_**
+  * UICollectionView + UIKit Dynamics  **_`Code Available`_**
+  * View Controller Transitions  **_`Code Available`_**
   * From NSURLConnection to NSURLSession
   * Multitasking in iOS 7
   * iOS 7: Hidden Gems and Workarounds
@@ -55,30 +55,30 @@ Each folder contains the code in the root along with an "Articles" sub folder.
 * **Issue 6** - **_Build Tools (2013-11-08)_**
   * Editorial
   * The Build Process
-  * The Compiler  **_Code Available_**
+  * The Compiler  **_`Code Available`_**
   * Mach-O Executables
   * CocoaPods Under The Hood
-  * Travis CI for iOS  **_Code Available_**
+  * Travis CI for iOS  **_`Code Available`_**
 * **Issue 7** - **_Foundation (2013-12-09)_**
   * Editorial
-  * The Foundation Collection Classes  **_Code Available_**
+  * The Foundation Collection Classes  **_`Code Available`_**
   * Value Objects
-  * Key-Value Coding and Observing  **_Code Available_**
+  * Key-Value Coding and Observing  **_`Code Available`_**
   * Communication Patterns 
-  * Custom Formatters  **_Code Available_**
-  * Linguistic Tagging  **_Code Available_**
+  * Custom Formatters  **_`Code Available`_**
+  * Linguistic Tagging  **_`Code Available`_**
 * **Issue 8** - **_Quadcopter Project (2014-01-08)_**
   * Editorial
   * The Project
   * Communicating with the Quadcopter
-  * The Navigator App  **_Code Available_**
+  * The Navigator App  **_`Code Available`_**
   * The Client App
 * **Issue 9** - **_Strings (2014-02-10)_**
   * Editorial
   * NSString and Unicode
   * Working with Strings
   * String Localization
-  * String Parsing  **_Code Available_**
+  * String Parsing  **_`Code Available`_**
   * String Rendering
 * **Issue 10** - **_Syncing Data (03-07-2012)_**
   * Editorial
@@ -86,11 +86,11 @@ Each folder contains the code in the root along with an "Articles" sub folder.
   * iCloud and Core Data
   * Mastering the iCloud Document Store
   * A Sync Case Study
-  * A Networked Core Data Application  **_Code Available_**
+  * A Networked Core Data Application  **_`Code Available`_**
   * IP, TCP, and HTTP
 * **Issue 11** - **_Android (2014-04-01)_**
   * Editorial
-  * Android 101 for iOS Developers  **_Code Available_**
+  * Android 101 for iOS Developers  **_`Code Available`_**
   * Android Intents
   * Responsive Android Applications
   * Android’s Notification Center
@@ -99,11 +99,11 @@ Each folder contains the code in the root along with an "Articles" sub folder.
 * **Issue 12** - **_Animations (2014-05-08)_**
   * Editorial
   * Animations Explained
-  * Animating Custom Layer Properties  **_Code Available_**
-  * Custom Container View Controller Transitions  **_Code Available_**
+  * Animating Custom Layer Properties  **_`Code Available`_**
+  * Custom Container View Controller Transitions  **_`Code Available`_**
   * View-Layer Synergy
-  * Animating Collection Views  **_Code Available_**
-  * Interactive Animations  **_Code Available_**
+  * Animating Collection Views  **_`Code Available`_**
+  * Interactive Animations  **_`Code Available`_**
 
 ### @todo
 Plan to just add all of these as external imports so that branches and changes are easier to maintain/view.  Just too lazy and have no time right now.  Will do later.
