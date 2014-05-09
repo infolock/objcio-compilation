@@ -71,14 +71,14 @@ Each folder contains the code in the root along with an "Articles" sub folder.
   * Editorial
   * The Project
   * Communicating with the Quadcopter
-  * The Navigator App
+  * The Navigator App  *_Code Available_*
   * The Client App
 * **Issue 9** - **_Strings (2014-02-10)_**
   * Editorial
   * NSString and Unicode
   * Working with Strings
   * String Localization
-  * String Parsing
+  * String Parsing  *_Code Available_*
   * String Rendering
 * **Issue 10** - **_Syncing Data (03-07-2012)_**
   * Editorial
@@ -86,11 +86,11 @@ Each folder contains the code in the root along with an "Articles" sub folder.
   * iCloud and Core Data
   * Mastering the iCloud Document Store
   * A Sync Case Study
-  * A Networked Core Data Application
+  * A Networked Core Data Application  *_Code Available_*
   * IP, TCP, and HTTP
 * **Issue 11** - **_Android (2014-04-01)_**
   * Editorial
-  * Android 101 for iOS Developers
+  * Android 101 for iOS Developers  *_Code Available_*
   * Android Intents
   * Responsive Android Applications
   * Android’s Notification Center
@@ -99,11 +99,11 @@ Each folder contains the code in the root along with an "Articles" sub folder.
 * **Issue 12** - **_Animations (2014-05-08)_**
   * Editorial
   * Animations Explained
-  * Animating Custom Layer Properties
-  * Custom Container View Controller Transitions
+  * Animating Custom Layer Properties  *_Code Available_*
+  * Custom Container View Controller Transitions  *_Code Available_*
   * View-Layer Synergy
-  * Animating Collection Views
-  * Interactive Animations
+  * Animating Collection Views  *_Code Available_*
+  * Interactive Animations  *_Code Available_*
 
 ### @todo
 Plan to just add all of these as external imports so that branches and changes are easier to maintain/view.  Just too lazy and have no time right now.  Will do later.
